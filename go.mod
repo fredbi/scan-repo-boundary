@@ -1,1 +1,1 @@
-module github.com/go-swagger/scan-repo-boundary
+module github.com/fredbi/scan-repo-boundary
